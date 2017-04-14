@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "776596392439",
+    "firebase_url": "https://harshgopettingtestapp.firebaseio.com",
+    "project_id": "harshgopettingtestapp",
+    "storage_bucket": "harshgopettingtestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776596392439:android:23ef85085d9e241f",
+        "android_client_info": {
+          "package_name": "com.example.harsh.harshgopettingtestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776596392439-d2n1ahtb2k30u2i144a4lml7hjugl082.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "776596392439-t3elt6gtjdoj8mggd3f34jgdn3fo0271.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "776596392439-vaa3a5ns4q7j1j42n3msl7976ch74ofm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harsh.harshgopettingtestapp",
+            "certificate_hash": "736651fb1c20a8bfbb9d4751b03726c0598e39de"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5wb2CnBKySM7OuuKleJEOSWIZCjKqQM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776596392439-d2n1ahtb2k30u2i144a4lml7hjugl082.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
