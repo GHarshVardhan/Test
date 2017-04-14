@@ -119,7 +119,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.MyView
                         if (text.getText().equals("Add To Cart")) {
                             editor.putString("key"+view.getTag(), "Added");
                         } else {
-                            editor.putString("key", "Removed");
+                            editor.putString("key"+view.getTag(), "Removed");
                         }
                         editor.apply();
                         dialog.dismiss();
